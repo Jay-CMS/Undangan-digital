@@ -21,7 +21,7 @@ body::after{
 .opening{
   position:fixed;
   inset:0;
-  background:url('img/cover.jpg') center/cover no-repeat;
+  background:url('img/Cover.jpg') center/cover no-repeat;
   display:flex;
   flex-direction:column;
   justify-content:center;
